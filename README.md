@@ -7,7 +7,7 @@ The goal is to understand **price trends, brand performance, and resale patterns
 
 ---
 
-## 🎯 Objectives
+## 🎯 Objectives 
 
 * Analyze price variations in the used bike market
 * Understand how **model year affects resale price**
